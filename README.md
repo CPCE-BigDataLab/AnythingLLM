@@ -27,3 +27,14 @@ Replace the placeholders in the script with your actual data:
 2. Navigate to the directory containing the script.
 3. Run the script using the command `python script_name.py`.
 4. Enter your chat message when prompted. Type 'exit' to stop the script.
+
+## Troubleshooting
+
+If you encounter any issues:
+- Ensure the API_BASE_URL, AUTHTOKEN, and WORKSPACE_SLUG are correctly configured.
+- Check if the Requests library is installed and up-to-date.
+- Verify the server and API are online and accessible.
+
+For further assistance, contact your API provider or consult the Requests library documentation.
+
+
