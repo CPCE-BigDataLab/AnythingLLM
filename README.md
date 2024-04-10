@@ -1,6 +1,6 @@
-# Anythingllm API Integration Tool
+# AnythingLLM API Integration Tool
 
-This Python script provides a straightforward way to send chat messages to a specific workspace using Anythingllm API. It's designed to facilitate communication and integration for developers looking to incorporate chat functionalities into their applications.
+This Python script provides a straightforward way to send chat messages to a specific workspace using AnythingLLM API. It's designed to facilitate communication and integration for developers looking to incorporate chat functionalities into their applications.
 
 ## Features
 
